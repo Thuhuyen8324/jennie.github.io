@@ -1,0 +1,172 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+  }
+  .container{
+    width:980px;
+    margin: 0 auto;
+  }
+  .header{
+    width: 990px;
+    height: 100px;
+    
+  }
+  .header img{
+    height: 100px;
+    width:980px;
+  
+  }
+  .MENU{
+    height: 35px;
+    background:rgb(63, 63, 63);
+  }
+  .MENU ul li  {
+    list-style: none;
+    float:left;
+    line-height: 35px;
+    padding: 0px 15px;
+  }
+  .MENU  a{
+    color:#fff;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 115px;
+  }
+  .anh1{
+    width: 200px;
+    height: 35px;
+  }
+  .anh2{
+    width:700px;
+    height:35px;
+    background: white;
+    color: black;
+  }
+  .anh3{
+    width: 60px;
+    height:35px;
+  }
+  .search{
+    width: 980px;
+    text-align: left;
+    margin: 0px 10px 15px 10px;
+    height: 35px;
+    
+  }
+  .search ul li{
+    float:left;
+    position:relative;
+    display: block;
+  }
+  .search{
+    display: flex;
+  }
+  .form_menu .menu .eye{
+    width:180px;
+    height:30px;
+    color:#fff;
+    margin-left: 10px;
+    margin-top: 10px;
+    background:rgb(63, 63, 63);
+  }
+  .form_menu{
+    text-decoration: none;
+    text-transform: none;
+    line-height: 27px;
+    background:rgb(155, 154, 154);
+    width:200px;
+    height:350px;
+    text-align:center;
+    float:left;
+    margin:0px auto;
+    margin-left: 240px;
+
+  }
+  ul{
+    list-style: none;
+  }
+  .bot li a{
+    text-decoration-line: none;
+    background-color: rgb(81, 22, 22);
+    border:1px solid rgb(240, 238, 238);
+    color:#fff;
+    padding:0px 10px 15px 10px;
+    width:150px;
+    height:30px;
+    margin:0px auto;
+    display:block;
+    position:relative;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .bot ul li:hover{
+    background:rgb(160, 80, 80);
+  }
+  .hot_cafe{
+    text-decoration: none;
+    text-transform: none;
+    float:right;
+    margin-right: 230px;
+  }
+  .content .anh7{
+    margin-left: 10px;
+  }
+  .content table  tr td img{
+    margin-left: 10px;
+  }
+  table{
+    font-weight: bold;
+  }
+  
+  s{color:red;}
+  b{color:red;}
+  input{
+    background: rgb(63, 63, 63); color: rgb(242, 242, 29);
+  }
+  .content table tr td img{
+    width: 270px;
+    height:200px;
+  }
+  .footer{
+    height: 35px;
+    background:rgb(63, 63, 63);
+    margin-left: 240px;
+    width: 990px;
+  }
+  .footer ul li  {
+    list-style: none;
+    float:left;
+    line-height: 35px;
+    padding: 0px 15px;
+    margin-left: 100px;  
+    border-right: 2px solid #fefefe;
+    text-align: center;
+    
+  }
+  .footer  a{
+    color:#fff;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+    
+  }
+  
+   .end{
+    background:rgb(174, 168, 168);
+    margin-left: 240px;
+    width: 990px;
+    height: 110px;
+  }
+  .enl{
+    padding-right: 210px;
+  }
+  .end b{
+    color: black;
+    margin-left: 10px;
+  }
+  .footer li a:nth-child(1) {
+    font-style: normal;
+  }
+  
